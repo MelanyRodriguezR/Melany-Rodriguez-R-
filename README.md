@@ -17,5 +17,5 @@ Sistema multicore que compara precios entre Steam y Amazon para encontrar las me
 **Tecnologías**: Python, SQLAlchemy, Playwright, Threading
 
 ## 📫 Contáctame
-- Email: tu-email@ejemplo.com
+- Email: melanyiveth37@gmail.com
 - LinkedIn:(https://www.linkedin.com/in/melany-rodriguez-8679a6399/)
